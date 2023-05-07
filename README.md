@@ -6,10 +6,10 @@
   Outside of work, my interests include geography, sports and traveling to the new places. You can usually find me reading a book or coding in my spare time. 
 
 ## Skills and Experience  
-* 📟 React 
-* 📱 React Native
+* 📟 CERN ROOT - Statistics  
+* 📱 SQL,PostgreSQL
 * 💻 Pyhton, Java, HTML 
-* 🌱 I’m currently learning **Java, SQL, React**
+* 🌱 I’m currently learning **Java, SQL, Computer Networks, Computer Graphics**
 * 💬 Ask me about **SQL**
 * 📫 How to reach me **tutkuedibegayda@gmail.com**
 
