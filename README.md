@@ -1,9 +1,9 @@
 ### Hi there (=^ ◡ ^=)👋
-  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked as an iOS developer and game designer for years.
+  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked as an Web-Site Development and game designer for years.
   
   Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically SQL. I also enjoy, UX-UI and design in general.
   
-  Outside of work, my interests include geography, sports and traveling to the new places. You can usually find me reading a book or coding in my spare time. 
+  Outside of work, my interests include mathematics, phyhsics and currently working on project(s) related to both subject. You can usually find me reading a book or coding in my spare time. 
 
 ## Skills and Experience  
 * 📟 CERN ROOT - Statistics  
