@@ -1,5 +1,5 @@
 ### Hi there (=^ ◡ ^=)👋
-  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked as an Web-Site Development and game designer for years.
+  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked as an Web-Site Development and game designer.
   
   Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically SQL. I also enjoy, UX-UI and design in general.
   
