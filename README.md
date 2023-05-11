@@ -12,6 +12,7 @@
 * 🌱 I’m currently learning **Java, SQL, Computer Networks, Computer Graphics**
 * 💬 Ask me about **SQL**
 * 📫 How to reach me **tutkuedibegayda@gmail.com**
+* 📫 Connect with me **www.linkedin.com/in/etutkugayda**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
