@@ -12,11 +12,10 @@
 * 🌱 I’m currently learning **Java, SQL, Computer Networks, Computer Graphics**
 * 💬 Ask me about **SQL**
 * 📫 How to reach me **tutkuedibegayda@gmail.com**
-* 📫 Connect with me **www.linkedin.com/in/etutkugayda**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bash" width="40" height="40"/> </a> <a href="www.linkedin.com/in/etutkugayda" target="_blank" rel="noreferrer"> <img 
+<a href="https://linkedin.com/in/https://www.linkedin.com/public-profile/settings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bash" width="40" height="40"/> </a> <a href= www.linkedin.com/in/etutkugayda target="_blank" rel="noreferrer"> </a></img> 
 </p>
   
  
