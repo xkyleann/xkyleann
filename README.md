@@ -1,3 +1,6 @@
+ <td width="100%" rowspan="4">
+       <img alt="Photo" src="./asset/demo.gif" />
+      </td>
 ### Hi there (=^ ◡ ^=)👋
   I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked seasonal as an Web-Site Development and Data Scientist.
   
