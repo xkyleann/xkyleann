@@ -2,7 +2,7 @@
   <body>
     <tr>
     <td width="100%" rowspan="4">
-       <img alt="Photo" src="./asset/demo.gif" />
+       <img alt="Photo" src="./asset/demo2.gif" />
       </td>
     </tr>
  </body>
