@@ -1,7 +1,7 @@
  <td width="100%" rowspan="4">
        <img alt="Photo" src="./asset/demo.gif" />
       </td>
-### Hi there (=^ ◡ ^=)👋
+###Hi there (=^ ◡ ^=)👋
   I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked seasonal as an Web-Site Development and Data Scientist.
   
   Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically SQL. I also enjoy, UX-UI and design in general.
