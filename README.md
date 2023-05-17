@@ -17,7 +17,7 @@
 * 📱 SQL,PostgreSQL
 * 💻 Pyhton, Java, HTML, CSS
 * 🌱 I’m currently learning **Java, SQL, Computer Networks, Computer Graphics**
-* 💬 Ask me about **SQL**, **Class Diagrams**, **UML**, **HTML,CSS,JSON**, 
+* 💬 Ask me about **SQL**, **Class Diagrams**, **UML**, **HTML, CSS ,JSON**, 
 * 📫 How to reach me **tutkuedibegayda@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
