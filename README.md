@@ -10,7 +10,7 @@
    
  
 ### Hi there (=^ ◡ ^=)👋
-  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked seasonal as a Software Developer and Data Scientist. Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically Data Science. I also enjoy, UX-UI and graphic design/digital art in general. Outside of work, my interests include mathematics, physics and currently working on project(s) related to both subject.
+  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked seasonal as a Software Developer and Data Scientist. Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically Data Science. I also enjoy, UX-UI and graphic design/digital art in general. Outside of work, my interests include mathematics, physics and kitesurf. 
 
 ## Skills and Experience   
 * 📱 SQL, PostgreSQL
