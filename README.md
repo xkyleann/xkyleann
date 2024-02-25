@@ -1,5 +1,5 @@
 
- ### Hi, I'm Tutku 👋
+### Hi, I'm Tutku 👋
 I'm Edibe Tutku a  Software Engineer and Data Scientist with more than +3 years of experience. Currently, I am interested in opportunities to learn more about **software development**, **machine learning** and specifically **data science**. I also enjoy, UX-UI and graphic design/digital art in general. Outside of work, my interests include mathematics, solving puzzles and kitesurf. 
 
 :mailbox: Reach me out!
@@ -17,7 +17,7 @@ I'm Edibe Tutku a  Software Engineer and Data Scientist with more than +3 years 
 </div>
 
 
-## Skills and Experience   
+### Skills and Experience   
 * 📱 SQL, PostgreSQL
 * 💻 Pyhton, Java, HTML, CSS
 * 🌱 I’m currently learning **Java, SQL, Microprocessors, Prolog**
