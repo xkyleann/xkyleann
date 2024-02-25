@@ -10,7 +10,11 @@
    
  
 ### Hi there (=^ ◡ ^=)👋
-  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked seasonal as a Software Developer and Data Scientist. Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically Data Science. I also enjoy, UX-UI and graphic design/digital art in general. Outside of work, my interests include mathematics, physics and kitesurf. 
+  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked seasonal as a **Software Developer** and **Data Scientist**. Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically Data Science. I also enjoy, UX-UI and graphic design/digital art in general. Outside of work, my interests include mathematics, physics and kitesurf. 
+
+
+[![Tutku's GitHub stats](https://github-readme-stats.vercel.app/api?username=xkyleann)](https://github.com/xkyleann/github-readme-stats)
+
 
 ## Skills and Experience   
 * 📱 SQL, PostgreSQL
