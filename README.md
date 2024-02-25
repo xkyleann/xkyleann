@@ -24,13 +24,4 @@ I'm Edibe Tutku a  Software Engineer and Data Scientist with more than +3 years 
 * 💬 Ask me about **SQL**, **Class Diagrams**, **UML**, **HTML, CSS ,JSON**, **Neo4J**, **Pyhton**
 
 
- <table>
-  <body>
-    <tr>
-    <td width="100%" rowspan="4">
-       <img alt="Photo" src="./asset/demo4.gif" />
-      </td>
-    </tr>
- </body>
-</table>
-   
+
