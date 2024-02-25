@@ -1,3 +1,29 @@
+
+ ### Hi, I'm Tutku 👋
+I'm Edibe Tutku a  Software Engineer and Data Scientist with more than +3 years of experience. Currently, I am interested in opportunities to learn more about **software development**, **machine learning** and specifically **data science**. I also enjoy, UX-UI and graphic design/digital art in general. Outside of work, my interests include mathematics, solving puzzles and kitesurf. 
+
+:mailbox: Reach me out!
+
+[![Linkedin Badge](https://img.shields.io/badge/-Tutku_Gayda-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etutkugayda)
+[![Mail Badge](https://img.shields.io/badge/-Mail-e84393?style=flat&labelColor=e84393&logo=gmail&logoColor=white)](mailto:tutkuedibegayda@gmail.com)
+
+#### Top Technologies
+[![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&labelColor=black&logo=mysql&logoColor=336791)](#)  [![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FA7343)](#)  [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
+
+### My stats ⭐
+<div align="Left">
+<img alt= "my stats" src="https://github-readme-stats.vercel.app/api?username=xkyleann"/>
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkyleann&layout=compact&&langs_count=8"/>
+</div>
+
+
+## Skills and Experience   
+* 📱 SQL, PostgreSQL
+* 💻 Pyhton, Java, HTML, CSS
+* 🌱 I’m currently learning **Java, SQL, Microprocessors, Prolog**
+* 💬 Ask me about **SQL**, **Class Diagrams**, **UML**, **HTML, CSS ,JSON**, **Neo4J**, **Pyhton**
+
+
  <table>
   <body>
     <tr>
@@ -8,28 +34,3 @@
  </body>
 </table>
    
- 
-### Hi there (=^ ◡ ^=)👋
-  I am Edibe Tutku from Poland/Krakow. I am senior at AGH Science and Technology University with a passion of coding. I have worked seasonal as a **Software Developer** and **Data Scientist**. Currently, I am interested in opportunities to learn more about software development, implant microchip technology and specifically Data Science. I also enjoy, UX-UI and graphic design/digital art in general. Outside of work, my interests include mathematics, physics and kitesurf. 
-
-
-<img alt= "my stats" src="https://github-readme-stats.vercel.app/api?username=xkyleann"/>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkyleann&layout=compact)
-
-## Skills and Experience   
-* 📱 SQL, PostgreSQL
-* 💻 Pyhton, Java, HTML, CSS
-* 🌱 I’m currently learning **Java, SQL, Microprocessors, Prolog**
-* 💬 Ask me about **SQL**, **Class Diagrams**, **UML**, **HTML, CSS ,JSON**, **Neo4J**, **Pyhton**
-* 📫 How to reach me **tutkuedibegayda@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/public-profile/settings" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bash" width="40" height="40"/> </a> <a href= www.linkedin.com/in/etutkugayda target="_blank" rel="noreferrer"> </a></img> 
-</p>
-  
- 
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://cassandra.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_cassandra/apache_cassandra-icon.svg" alt="cassandra" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
