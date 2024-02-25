@@ -15,6 +15,7 @@
 
 <img alt= "my stats" src="https://github-readme-stats.vercel.app/api?username=xkyleann"/>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=xkyleann&layout=compact)
 
 ## Skills and Experience   
 * 📱 SQL, PostgreSQL
