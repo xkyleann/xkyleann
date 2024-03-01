@@ -12,8 +12,8 @@ I'm Edibe Tutku a  Software Engineer and Data Scientist with more than +3 years 
 
 ### My stats ⭐
 <div align="Left">
-<img alt= "my stats" src="https://github-readme-stats.vercel.app/api?username=xkyleann"/>
-<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkyleann&layout=compact&&langs_count=8"/>
+<img alt="Tutku's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkyleann&layout=compact&&langs_count=100"/>
 </div>
 
 
@@ -22,6 +22,5 @@ I'm Edibe Tutku a  Software Engineer and Data Scientist with more than +3 years 
 * 💻 Pyhton, Java, HTML, CSS
 * 🌱 I’m currently learning **Java, SQL, Microprocessors, Prolog**
 * 💬 Ask me about **SQL**, **Class Diagrams**, **UML**, **HTML, CSS ,JSON**, **Neo4J**, **Pyhton**
-
 
 
