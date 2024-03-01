@@ -12,7 +12,7 @@ I'm Edibe Tutku a  Software Engineer and Data Scientist with more than +3 years 
 
 ### My stats ⭐
 <div align="Left">
-<img alt="Tutku's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true" />
+<img alt="Tutku's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=xkyleann&show_icons=true" />
 <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xkyleann&layout=compact&&langs_count=100"/>
 </div>
 
