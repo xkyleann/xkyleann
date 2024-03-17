@@ -18,8 +18,8 @@ I'm Tutku a  Software Engineer and Data Scientist with more than +3 years of exp
 
 
 ### Skills and Experience   
-* 📱 SQL, PostgreSQL
-* 💻 Pyhton, Java, HTML, CSS
+* 📱 IBM z/architecture 
+* 💻 Pyhton, Java, SQL, PostgreSQL
 * 🌱 I’m currently learning **Java, SQL, Microprocessors, Prolog**
 * 💬 Ask me about **SQL**, **Class Diagrams**, **UML**, **HTML, CSS ,JSON**, **Neo4J**, **Pyhton**
 
