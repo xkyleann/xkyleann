@@ -21,6 +21,6 @@ I'm Tutku a  Software Engineer and Data Scientist with more than +3 years of exp
 * 📱 IBM z/architecture 
 * 💻 Pyhton, Java, SQL, PostgreSQL
 * 🌱 I’m currently learning **Java, Microprocessors, z/OS**
-* 💬 Ask me about **SQL**, **z/architecture**, **UML**, **HTML, CSS ,JSON**, **Neo4J**, **Pyhton**
+* 💬 Ask me about **SQL**, **z/architecture**, **UML**, **Java**, **Neo4J**, **Pyhton**
 
 
