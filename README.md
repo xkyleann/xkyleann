@@ -2,7 +2,7 @@
 ### Hi, I'm Tutku 👋
 I'm Tutku a  AI Researcher with more than +3 years of experience. Interested in opportunities to learn more about **software development**, **machine learning** and specifically **data science**.
 
-:mailbox: Reach me out!
+:mailbox: Reach out to me !
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tutku_Gayda-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etutkugayda)
 [![Mail Badge](https://img.shields.io/badge/-Mail-e84393?style=flat&labelColor=e84393&logo=gmail&logoColor=white)](mailto:tutkuedibegayda@gmail.com)
