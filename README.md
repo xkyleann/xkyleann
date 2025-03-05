@@ -1,9 +1,9 @@
-
 ### Hi, I'm Tutku 👋
-:mailbox: Reach out to me !
+:mailbox: Get in Touch
 
 [![Linkedin Badge](https://img.shields.io/badge/-Tutku_Gayda-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/etutkugayda)
 [![Mail Badge](https://img.shields.io/badge/-Mail-e84393?style=flat&labelColor=e84393&logo=gmail&logoColor=white)](mailto:tutkuedibegayda@gmail.com)
+
 
 #### Top Technologies
 [![Python Badge](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=3776AB)](#)  [![SQL Badge](https://img.shields.io/badge/-SQL-336791?style=for-the-badge&labelColor=black&logo=mysql&logoColor=336791)](#)  [![Swift Badge](https://img.shields.io/badge/-Swift-FA7343?style=for-the-badge&labelColor=black&logo=swift&logoColor=FA7343)](#)  [![JavaScript Badge](https://img.shields.io/badge/-JavaScript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#)
