@@ -17,7 +17,7 @@
 
 ### Skills and Experience   
 * 📱 IBM z/architecture 
-* 💻 Pyhton, Java, SQL, PostgreSQL
+* 💻 Pyhton, Java, SQL, JavaScript
 * 🌱 I’m currently learning **Java, Microprocessors, z/OS**
 * 💬 Ask me about **SQL**, **z/architecture**, **UML**, **Java**, **Neo4J**, **Pyhton**
 
